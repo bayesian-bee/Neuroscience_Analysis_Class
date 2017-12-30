@@ -9,7 +9,11 @@ I have only included tutorials that I personally designed and wrote; Genevieve w
 
 
 Week 1: Introduction to MATLAB
+
 Week 2: Analysis & Visualization of behavioral data
+
 Week 3: Modeling of behavioral data and model selection
+
 Week 8: Reinforcement-Learning models
+
 Week 9: Modeling reaction times
