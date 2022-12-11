@@ -18,7 +18,7 @@
 %animal was rewarded), and reaction time specifies the time the animal took to make a choice.
 
 %--------------------------------------YOUR CODE HERE--------------------------------------------------
-floc = 'C:\Users\bart\Dropbox\class\yale\Fall_2015\compneuro\CompNeuroClass\Tutorials\Week3\data\';
+floc = 'C:\Users\bee\Dropbox\class\yale\Fall_2015\compneuro\CompNeuroClass\Tutorials\Week3\data\';
 fname = 'data.csv';
 data = csvread(strcat(floc,fname));
 %------------------------------------------------------------------------------------------------------
