@@ -194,7 +194,7 @@ deviation
 
 %You may already have the data loaded in and pre-processed. If you don 't,
 %here is the code to do that again.
-floc = 'C:\Users\bart\Dropbox\class\yale\Fall_2015\compneuro\CompNeuroClass\Tutorials\Week3\data\'
+floc = 'C:\Users\bee\Dropbox\class\yale\Fall_2015\compneuro\CompNeuroClass\Tutorials\Week3\data\'
 fname = 'data.csv';
 data = csvread(strcat(floc,fname));
 coherences = data(:,1);
@@ -335,11 +335,12 @@ initial_parameters = [.1,.1];
 %logistic function, so feel free to redefine a logistic function that does
 %not have one (or make sure that you always set the slope to zero).
 %
-%This is a very real example of how computational models are used to 
+%This is a very real example of how
+computational models are used to 
 %analyze choice data. Have fun!
 
 %--------------------------------------YOUR CODE HERE--------------------------------------------------
-floc = 'C:\Users\bart\Dropbox\class\yale\Fall_2015\compneuro\CompNeuroClass\Tutorials\Week3\data\'
+floc = 'C:\Users\bee\Dropbox\class\yale\Fall_2015\compneuro\CompNeuroClass\Tutorials\Week3\data\'
 fname = 'data2.csv';
 data = csvread(strcat(floc,fname));
 ld = data(:,1); %left delay
