@@ -33,7 +33,7 @@ clc
 
 %--------------------------------------DEMO CODE--------------------------------------------------
 floc = 'data/'; %Will need slash in the other direction for Windows
-floc = 'C:\Users\bart\Dropbox\class\yale\Fall_2015\compneuro\CompNeuroClass\Tutorials\Week2\data\';
+floc = 'C:\Users\bee\Dropbox\class\yale\Fall_2015\compneuro\CompNeuroClass\Tutorials\Week2\data\';
 fname = 'data.csv';
 data = csvread(strcat(floc,fname));
 %-------------------------------------------------------------------------------------------------
